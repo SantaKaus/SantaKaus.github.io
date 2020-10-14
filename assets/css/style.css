@@ -467,6 +467,22 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume .resume-title {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #050d18;
+}
+
+.resume .resume-item {
+   padding-bottom: 10px;
+   margin-bottom: 60px;
+   position: relative; 
+   text-align: center;
+
+}
+
 
 
 /*--------------------------------------------------------------
